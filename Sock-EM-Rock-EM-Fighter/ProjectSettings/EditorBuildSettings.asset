@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/2PlayerScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/2PlayerTutorial.unity
+    guid: cc0fcbd4beb185e4b95ed2ead9ffb183
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: e6e7212073f99154e89b60040d80f770
+  - enabled: 1
+    path: Assets/Scenes/1PlayerTutorial.unity
+    guid: f3680c4d62c1cb94eaa5efb02ed8f4a6
+  - enabled: 1
+    path: Assets/Scenes/1PlayerScene.unity
+    guid: 297feb42463dafc4999c6c4e4d3fb738
+  - enabled: 1
+    path: Assets/Scenes/HintScene.unity
+    guid: 27e662e1095407b4dbed40219ec9a407
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 5146299a04c62d1499150dd8211bb622, type: 2}
